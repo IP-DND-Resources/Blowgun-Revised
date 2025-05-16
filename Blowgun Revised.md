@@ -68,6 +68,9 @@ Having a 20% Critical Hit chance means that creatures with high AC become much e
 
 Mastery with a Blowgun gives Advantage, increasing the chance to Critically Hit to 36% (20% + [15.9%](https://statmodeling.stat.columbia.edu/2014/07/12/dnd-5e-advantage-disadvantage-probability/)) brining average damage to 5.08.
 
+##### Poisoner Feat
+This should be assumed to reference "Basic Poison" when it says poison. With all of the considerations and bonuses, this only brings a Blowgun in line with comparable weapon damages. 
+
 {{imageMaskCorner20,--offsetX:43%,--offsetY:-63%,--rotation:0
   ![](https://raw.githubusercontent.com/IP-DND-Resources/Poisons-Expanded/refs/heads/main/img/Blowgun.png){width:450px,right:-10px,bottom:-100px,opacity:90%,transform:scaleX(-1)}
 }}
