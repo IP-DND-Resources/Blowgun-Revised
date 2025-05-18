@@ -1,7 +1,7 @@
 <!-- https://homebrewery.naturalcrit.com/share/rBL6GbysBK9G -->
 
 <div class='artist' style='top:30px;right:100px;'>
-[v0.1.0](https://github.com/IP-DND-Resources/Blowgun-Revised/tree/main)
+[v0.1.1](https://github.com/IP-DND-Resources/Blowgun-Revised/tree/main)
 </div>
 
 <div class='artist' style='top:40px;right:100px;'>
@@ -25,10 +25,12 @@ When attacking with a weapon, you add your ability modifier—the same modifier 
 *Martial Ranged Weapon*, 1 lb. 10 GP
 :
 **Damage** - 1 Piercing  
-**Properties** - Ammunition (Range 25/100; Needle), Loading, Light, Obscure, Precise  
+**Properties*** - Ammunition (Range 25/100; Needle), Loading, Two-Handed, Obscure, Precise.  
 **Mastery** - Vex
 
-## Properties
+(*) This weapon is also considered to have Finesse for any prerequisite that requires a weapon to have Finesse.
+
+### Properties
 ### Obscure
 When you attack a creature with this weapon while you have the Invisible condition, make a DC 12 Dexterity (Stealth) check. On a failure, you lose the Invisible condition and creatures within 10 feet of the target are aware of you and your location. On a success, you maintain the Invisible condition.
 
